@@ -41,7 +41,7 @@
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &kp LG(A) &kp LA(DOWN) &kp LS(LA(LEFT)) &kp LS(UP) &kp LS(LA(RIGHT)) &kp LA(UP) &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp LS(LG(LEFT)) &kp LS(LEFT) &kp LS(DOWN) &kp LS(RIGHT) &kp LS(LG(RIGHT)) &kp LS(LC(G))
-        &trans &trans &trans &trans &trans &trans &trans &kp BSPC &kp LS(LG(UP)) &m_0 &kp LC(LG(G)) &kp LC(G) &kp LS(LG(DOWN)) &trans
+        &trans &trans &trans &trans &trans &trans &trans &kp BSPC &kp LS(LG(HOME)) &m_0 &kp LC(LG(G)) &kp LC(G) &kp LS(LG(END)) &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &kp LG(V) &kp LG(X) &kp LG(C) &kp LS(LG(UP)) &kp LS(LG(DOWN)) &trans &trans &trans
       >;
     };
@@ -69,9 +69,9 @@
       display-name = "Nav";
       bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &kp F13 &kp F14 &kp F15 &kp LG(LBKT) &kp LG(RBKT) &kp F20
-        &trans &trans &trans &trans &trans &trans &trans &kp LG(BSPC) &kp LC(UP) &kp LA(LEFT) &kp UP &kp LA(RIGHT) &kp LC(DOWN) &kp LA(LG(RET))
+        &trans &trans &trans &trans &trans &trans &trans &kp LG(BSPC) &kp LC(LS(UP)) &kp LA(LEFT) &kp UP &kp LA(RIGHT) &kp LC(LS(DOWN)) &kp LA(LG(RET))
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp LG(Z) &kp LG(LS(Z)) &kp LG(D) &kp LG(LEFT) &kp LEFT &kp DOWN &kp RIGHT &kp LG(RIGHT) &kp LS(RET)
-        &trans &trans &trans &trans &trans &trans &trans &kp LC(SEMI) &kp LG(UP) &kp BSPC &kp LA(BSPC) &kp LA(DEL) &kp LG(DOWN) &m_1
+        &trans &trans &trans &trans &trans &trans &trans &kp LC(SEMI) &kp LG(HOME) &kp BSPC &kp LA(BSPC) &kp LA(DEL) &kp LG(END) &m_1
         &trans &trans &trans &trans &trans &trans &trans &trans &m_2 &kp LS(LG(RET)) &kp LC(SPACE) &kp LS(LG(UP)) &kp LS(LG(DOWN)) &kp PG_UP &kp PG_DN &trans
       >;
     };

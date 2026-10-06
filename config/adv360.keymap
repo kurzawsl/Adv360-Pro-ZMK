@@ -105,7 +105,7 @@
         &trans &trans &trans &trans &trans &trans &trans &trans &kp LC(C) &m_14 &m_16 &m_15 &kp LC(L) &m_21
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp LC(R) &m_9 &m_10 &m_11 &m_12 &m_13
         &trans &trans &trans &trans &trans &trans &trans &kp F17 &kp LC(T) &m_17 &m_18 &m_19 &m_20 &trans
-        &trans &trans &trans &trans &trans &trans &trans &trans &kp F16 &trans &trans &kp LC(U) &kp LC(K) &kp LC(W) &kp LC(D) &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &kp F16 &trans &kp LC(LS(LG(N4))) &kp LC(U) &kp LC(K) &kp LC(W) &kp LC(D) &trans
       >;
     };
     code_layer {

@@ -277,16 +277,16 @@
     #binding-cells = <0>;
     wait-ms = <12>;
     tap-ms = <12>;
-    bindings = <&kp EXCL>, <&kp EQUAL>;
-    display-name = "!=";
+    bindings = <&kp EQUAL>, <&kp EQUAL>;
+    display-name = "==";
   };
   m_6: m_6 {
     compatible = "zmk,behavior-macro";
     #binding-cells = <0>;
     wait-ms = <12>;
     tap-ms = <12>;
-    bindings = <&kp EQUAL>, <&kp EQUAL>;
-    display-name = "==";
+    bindings = <&kp EXCL>, <&kp EQUAL>;
+    display-name = "!=";
   };
   m_7: m_7 {
     compatible = "zmk,behavior-macro";

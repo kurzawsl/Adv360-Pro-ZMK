@@ -102,10 +102,10 @@
       display-name = "Shell";
       bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &m_22 &m_23 &m_24 &m_25 &m_26 &trans
-        &trans &trans &trans &trans &trans &trans &trans &trans &kp LC(C) &m_14 &m_16 &m_15 &kp LC(L) &m_21
-        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp LC(R) &m_9 &m_10 &m_11 &m_12 &m_13
-        &trans &trans &trans &trans &trans &trans &trans &kp F17 &kp LC(T) &m_17 &m_18 &m_19 &m_20 &trans
-        &trans &trans &trans &trans &trans &trans &trans &trans &kp F16 &trans &kp LC(LS(LG(N4))) &kp LC(U) &kp LC(K) &kp LC(W) &kp LC(D) &trans
+        &trans &trans &trans &trans &trans &trans &trans &m_28 &kp LC(C) &m_14 &m_16 &m_15 &kp LC(L) &m_21
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &m_29 &kp LC(R) &m_9 &m_10 &m_11 &m_12 &m_13
+        &trans &trans &trans &trans &trans &trans &trans &m_27 &kp LC(T) &m_17 &m_18 &m_19 &m_20 &m_30
+        &trans &trans &trans &trans &trans &trans &trans &trans &m_31 &trans &kp LC(LS(LG(N4))) &kp LC(U) &kp LC(K) &kp LC(W) &kp LC(D) &trans
       >;
     };
     code_layer {

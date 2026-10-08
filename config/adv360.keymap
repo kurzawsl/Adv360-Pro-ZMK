@@ -81,8 +81,8 @@
       bindings = <
         &trans &kp LG(N1) &kp LA(F12) &kp LA(F1) &kp LG(L) &kp LS(LG(F12)) &trans &trans &trans &trans &trans &trans &trans &trans
         &kp LC(TAB) &kp LG(LS(A)) &kp LG(W) &kp LG(E) &kp LG(LS(E)) &kp LS(LG(T)) &kp LA(LG(K)) &trans &trans &trans &trans &trans &trans &trans
-        &kp LS(ESC) &macro_shift2 &kp LG(F12) &kp LG(B) &kp LA(F7) &kp LA(LG(B)) &kp LG(ESC) &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-        &trans &kp LG(LBKT) &kp LG(RBKT) &kp LG(O) &kp LG(LS(O)) &kp F2 &kp LC(H) &trans &trans &trans &trans &trans &trans &trans
+        &kp LS(ESC) &macro_shift2 &kp LG(F12) &kp LG(B) &kp LA(F7) &kp LA(LG(B)) &kp LG(ESC) &trans &kp LC(R) &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &kp LC(LS(R)) &kp LG(LBKT) &kp LG(RBKT) &kp LG(O) &kp LG(LS(O)) &kp F2 &kp LC(H) &trans &trans &trans &trans &trans &trans &trans
         &kp LG(LA(LC(LS(F4)))) &trans &kp LS(F2) &kp LA(LEFT) &kp LA(RIGHT) &kp F1 &kp LA(SPACE) &kp LG(P) &trans &trans &trans &trans &trans &trans &trans &trans
       >;
     };
